@@ -22,6 +22,9 @@
   "author": "Barudak Rosul",
   "license": "Apache-2.0",
   "types": "./index.d.ts",
+  "engines": {
+    "node": ">=4"
+  },
   "bugs": {
     "url": "https://github.com/BarudakRosul/translate/issues"
   },
