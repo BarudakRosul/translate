@@ -5,6 +5,7 @@
   <p><a href="https://github.com/BarudakRosul/translate/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Laporkan Bug</a> · <a href="https://github.com/BarudakRosul/translate/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Ajukan Fitur</a></p>
   <p>
     <a href="https://github.com/BarudakRosul/translate/actions/workflows/test.yml"><img src="https://github.com/BarudakRosul/translate/actions/workflows/test.yml/badge.svg" alt="Testing"/></a>
+    <a href="https://npmjs.com/package/@barudakrosul/translate"><img src="https://img.shields.io/node/v/%40barudakrosul%2Ftranslate" alt="Node Engines"/></a>
     <a href="https://npmjs.com/package/@barudakrosul/translate"><img src="https://img.shields.io/npm/v/@barudakrosul/translate" alt="NPM Version"/></a>
     <a href="/LICENSE"><img src="https://img.shields.io/github/license/BarudakRosul/translate" alt="License"/></a>
     <a href="https://npmjs.com/package/@barudakrosul/translate"><img src="https://img.shields.io/npm/d18m/%40barudakrosul%2Ftranslate" alt="Downloads"/></a>
