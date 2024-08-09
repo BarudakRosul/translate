@@ -1,6 +1,6 @@
 {
   "name": "@barudakrosul/translate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts each character in the string according to the specified translation table",
   "main": "index.js",
   "scripts": {
