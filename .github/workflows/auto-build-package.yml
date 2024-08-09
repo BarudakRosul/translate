@@ -28,7 +28,7 @@ permissions:
   statuses: read
 
 jobs:
-  autoBuild:
+  update-package:
     runs-on: ubuntu-latest
     name: Auto build deps
     strategy:

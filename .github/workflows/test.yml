@@ -10,7 +10,7 @@ on:
 permissions: read-all
 
 jobs:
-  build:
+  test:
     name: Perform check
     runs-on: ubuntu-latest
     strategy:
