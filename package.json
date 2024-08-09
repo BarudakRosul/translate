@@ -1,0 +1,36 @@
+{
+  "name": "@barudakrosul/translate",
+  "version": "0.0.1",
+  "description": "Converts each character in the string according to the specified translation table",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarudakRosul/translate.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "keywords": [
+    "translate",
+    "unicode",
+    "replace"
+  ],
+  "author": "Barudak Rosul",
+  "license": "Apache-2.0",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/BarudakRosul/translate/issues"
+  },
+  "homepage": "https://github.com/BarudakRosul/translate#readme",
+  "funding": {
+    "url": "https://ko-fi.com/barudakrosul"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.7.0"
+  }
+}
